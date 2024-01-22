@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "title": "book2",
+  "year": 2000,
+  "pages": 340,
+  "price": 2.99,
+  "amount": 2,
+  "description": "some description",
+  "authors": [
+    {
+      "id": 1,
+      "name": "Andrzej",
+      "surname": "Philipiuk",
+      "description": "some description"
+    }
+  ],
+  "covers": [
+    {
+      "id": 1,
+      "type": "SOFT"
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "language": "PL"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "BOOK"
+    }
+  ]
+}
